@@ -25,7 +25,7 @@ function DisplayMainPage() {
   navBar.innerHTML = `
   <button></button>
   <button></button>
-  <button></button>
+  <button>A</button>
   `
 
 
